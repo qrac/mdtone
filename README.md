@@ -1,18 +1,18 @@
 # MDTONE
 
+## Demo
+
+- [Demo Page][link-demo]
+
 ## About
 
-Material Design ColorをSassで使いやすいよう変数にしました。
+Material Design ColorをSassで使いやすいよう変数化しました。
 
-＞ [Demo Page](https://qrac.github.io/mdtone/)
-
-カラーバリュエーションはSass(SCSS)の色変数計算で彩度を落とし、自動出力しています。[Demo Page](https://qrac.github.io/mdtone/)では、出力された背景色を更にjQueryで取得、RGBを16進数に変換しつつテキストで出力しています。
-
-## How To Use
+## Use
 
 ### 色をWebデザインで使う場合
 
-[Demo Page](https://qrac.github.io/mdtone/)に色コードを出力していますので、コピペください。
+[Demo Page][link-demo]に16進数の色コードを自動出力していますので、コピーしてお使いください。
 
 ### SCSSの変数として利用する場合
 
@@ -24,6 +24,8 @@ Material Design ColorをSassで使いやすいよう変数にしました。
 
 ## License
 
-CC0 1.0 Public Domain
+- CC0 1.0 Public Domain
+- Author: [Qrac][link-twitter]
 
-Author: [Qrac](https://twitter.com/Qrac_jp)
+[link-demo]:https://qrac.github.io/mdtone/
+[link-twitter]:https://twitter.com/Qrac_JP

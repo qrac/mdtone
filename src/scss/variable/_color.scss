@@ -1,52 +1,318 @@
 //----------------------------------------------------
-// Variable: Color Mix
+// Variable: Color
 //----------------------------------------------------
 
-$white: #ffffff !default;
-$black: #000000 !default;
+$red-50: $md-red-50 !default;
+$red-100: $md-red-100 !default;
+$red-200: $md-red-200 !default;
+$red-300: $md-red-300 !default;
+$red-400: $md-red-400 !default;
+$red-500: $md-red-500 !default;
+$red-600: $md-red-600 !default;
+$red-700: $md-red-700 !default;
+$red-800: $md-red-800 !default;
+$red-900: $md-red-900 !default;
+$red-a100: $md-red-a100 !default;
+$red-a200: $md-red-a200 !default;
+$red-a400: $md-red-a400 !default;
+$red-a700: $md-red-a700 !default;
 
-$dark-primary: rgba( $black, 0.87 ) !default;
-$dark-secondary: rgba( $black, 0.54 ) !default;
-$dark-auxiliary: rgba( $black, 0.38 ) !default;
-$dark-dividers: rgba( $black, 0.12 ) !default;
+$pink-50: $md-pink-50 !default;
+$pink-100: $md-pink-100 !default;
+$pink-200: $md-pink-200 !default;
+$pink-300: $md-pink-300 !default;
+$pink-400: $md-pink-400 !default;
+$pink-500: $md-pink-500 !default;
+$pink-600: $md-pink-600 !default;
+$pink-700: $md-pink-700 !default;
+$pink-800: $md-pink-800 !default;
+$pink-900: $md-pink-900 !default;
+$pink-a100: $md-pink-a100 !default;
+$pink-a200: $md-pink-a200 !default;
+$pink-a400: $md-pink-a400 !default;
+$pink-a700: $md-pink-a700 !default;
 
-$light-primary: rgba( $white, 1 ) !default;
-$light-secondary: rgba( $white, 0.7 ) !default;
-$light-auxiliary: rgba( $white, 0.5 ) !default;
-$light-divider: rgba( $white, 0.12 ) !default;
+$purple-50: $md-purple-50 !default;
+$purple-100: $md-purple-100 !default;
+$purple-200: $md-purple-200 !default;
+$purple-300: $md-purple-300 !default;
+$purple-400: $md-purple-400 !default;
+$purple-500: $md-purple-500 !default;
+$purple-600: $md-purple-600 !default;
+$purple-700: $md-purple-700 !default;
+$purple-800: $md-purple-800 !default;
+$purple-900: $md-purple-900 !default;
+$purple-a100: $md-purple-a100 !default;
+$purple-a200: $md-purple-a200 !default;
+$purple-a400: $md-purple-a400 !default;
+$purple-a700: $md-purple-a700 !default;
 
-//----------------------------------------------------
-// Variable: Color Setting
-//----------------------------------------------------
+$deep-purple-50: $md-deep-purple-50 !default;
+$deep-purple-100: $md-deep-purple-100 !default;
+$deep-purple-200: $md-deep-purple-200 !default;
+$deep-purple-300: $md-deep-purple-300 !default;
+$deep-purple-400: $md-deep-purple-400 !default;
+$deep-purple-500: $md-deep-purple-500 !default;
+$deep-purple-600: $md-deep-purple-600 !default;
+$deep-purple-700: $md-deep-purple-700 !default;
+$deep-purple-800: $md-deep-purple-800 !default;
+$deep-purple-900: $md-deep-purple-900 !default;
+$deep-purple-a100: $md-deep-purple-a100 !default;
+$deep-purple-a200: $md-deep-purple-a200 !default;
+$deep-purple-a400: $md-deep-purple-a400 !default;
+$deep-purple-a700: $md-deep-purple-a700 !default;
 
-// Dark > Text / icon / divider
-$dark-txt1: $dark-primary !default;
-$dark-txt2: $dark-secondary !default;
-$dark-disable: $dark-auxiliary !default;
-$dark-hint: $dark-auxiliary !default;
-$dark-icon-on: $dark-secondary !default;
-$dark-icon-off: $dark-auxiliary !default;
-$dark-divider: $dark-dividers !default;
+$indigo-50: $md-indigo-50 !default;
+$indigo-100: $md-indigo-100 !default;
+$indigo-200: $md-indigo-200 !default;
+$indigo-300: $md-indigo-300 !default;
+$indigo-400: $md-indigo-400 !default;
+$indigo-500: $md-indigo-500 !default;
+$indigo-600: $md-indigo-600 !default;
+$indigo-700: $md-indigo-700 !default;
+$indigo-800: $md-indigo-800 !default;
+$indigo-900: $md-indigo-900 !default;
+$indigo-a100: $md-indigo-a100 !default;
+$indigo-a200: $md-indigo-a200 !default;
+$indigo-a400: $md-indigo-a400 !default;
+$indigo-a700: $md-indigo-a700 !default;
 
-// Light > Text / icon / divider
-$light-txt1: $light-primary !default;
-$light-txt2: $light-secondary !default;
-$light-disable: $light-auxiliary !default;
-$light-hint: $light-auxiliary !default;
-$light-icon-on: $light-secondary !default;
-$light-icon-off: $light-auxiliary !default;
-$light-divider: $light-dividers !default;
+$blue-50: $md-blue-50 !default;
+$blue-100: $md-blue-100 !default;
+$blue-200: $md-blue-200 !default;
+$blue-300: $md-blue-300 !default;
+$blue-400: $md-blue-400 !default;
+$blue-500: $md-blue-500 !default;
+$blue-600: $md-blue-600 !default;
+$blue-700: $md-blue-700 !default;
+$blue-800: $md-blue-800 !default;
+$blue-900: $md-blue-900 !default;
+$blue-a100: $md-blue-a100 !default;
+$blue-a200: $md-blue-a200 !default;
+$blue-a400: $md-blue-a400 !default;
+$blue-a700: $md-blue-a700 !default;
 
-// Light Theme
-$light-stbar: #e0e0e0 !default;
-$light-appbar: #f5f5f5 !default;
-$light-bg: #fafafa !default;
-$light-card: #ffffff !default;
-$light-dialog: #ffffff !default;
+$light-blue-50: $md-light-blue-50 !default;
+$light-blue-100: $md-light-blue-100 !default;
+$light-blue-200: $md-light-blue-200 !default;
+$light-blue-300: $md-light-blue-300 !default;
+$light-blue-400: $md-light-blue-400 !default;
+$light-blue-500: $md-light-blue-500 !default;
+$light-blue-600: $md-light-blue-600 !default;
+$light-blue-700: $md-light-blue-700 !default;
+$light-blue-800: $md-light-blue-800 !default;
+$light-blue-900: $md-light-blue-900 !default;
+$light-blue-a100: $md-light-blue-a100 !default;
+$light-blue-a200: $md-light-blue-a200 !default;
+$light-blue-a400: $md-light-blue-a400 !default;
+$light-blue-a700: $md-light-blue-a700 !default;
 
-// Dark Theme
-$dark-stbar: #000000 !default;
-$dark-appbar: #212121 !default;
-$dark-bg: #303030 !default;
-$dark-card: #424242 !default;
-$dark-dialog: #424242 !default;
+$cyan-50: $md-cyan-50 !default;
+$cyan-100: $md-cyan-100 !default;
+$cyan-200: $md-cyan-200 !default;
+$cyan-300: $md-cyan-300 !default;
+$cyan-400: $md-cyan-400 !default;
+$cyan-500: $md-cyan-500 !default;
+$cyan-600: $md-cyan-600 !default;
+$cyan-700: $md-cyan-700 !default;
+$cyan-800: $md-cyan-800 !default;
+$cyan-900: $md-cyan-900 !default;
+$cyan-a100: $md-cyan-a100 !default;
+$cyan-a200: $md-cyan-a200 !default;
+$cyan-a400: $md-cyan-a400 !default;
+$cyan-a700: $md-cyan-a700 !default;
+
+$teal-50: $md-teal-50 !default;
+$teal-100: $md-teal-100 !default;
+$teal-200: $md-teal-200 !default;
+$teal-300: $md-teal-300 !default;
+$teal-400: $md-teal-400 !default;
+$teal-500: $md-teal-500 !default;
+$teal-600: $md-teal-600 !default;
+$teal-700: $md-teal-700 !default;
+$teal-800: $md-teal-800 !default;
+$teal-900: $md-teal-900 !default;
+$teal-a100: $md-teal-a100 !default;
+$teal-a200: $md-teal-a200 !default;
+$teal-a400: $md-teal-a400 !default;
+$teal-a700: $md-teal-a700 !default;
+
+$green-50: $md-green-50 !default;
+$green-100: $md-green-100 !default;
+$green-200: $md-green-200 !default;
+$green-300: $md-green-300 !default;
+$green-400: $md-green-400 !default;
+$green-500: $md-green-500 !default;
+$green-600: $md-green-600 !default;
+$green-700: $md-green-700 !default;
+$green-800: $md-green-800 !default;
+$green-900: $md-green-900 !default;
+$green-a100: $md-green-a100 !default;
+$green-a200: $md-green-a200 !default;
+$green-a400: $md-green-a400 !default;
+$green-a700: $md-green-a700 !default;
+
+$light-green-50: $md-light-green-50 !default;
+$light-green-100: $md-light-green-100 !default;
+$light-green-200: $md-light-green-200 !default;
+$light-green-300: $md-light-green-300 !default;
+$light-green-400: $md-light-green-400 !default;
+$light-green-500: $md-light-green-500 !default;
+$light-green-600: $md-light-green-600 !default;
+$light-green-700: $md-light-green-700 !default;
+$light-green-800: $md-light-green-800 !default;
+$light-green-900: $md-light-green-900 !default;
+$light-green-a100: $md-light-green-a100 !default;
+$light-green-a200: $md-light-green-a200 !default;
+$light-green-a400: $md-light-green-a400 !default;
+$light-green-a700: $md-light-green-a700 !default;
+
+$lime-50: $md-lime-50 !default;
+$lime-100: $md-lime-100 !default;
+$lime-200: $md-lime-200 !default;
+$lime-300: $md-lime-300 !default;
+$lime-400: $md-lime-400 !default;
+$lime-500: $md-lime-500 !default;
+$lime-600: $md-lime-600 !default;
+$lime-700: $md-lime-700 !default;
+$lime-800: $md-lime-800 !default;
+$lime-900: $md-lime-900 !default;
+$lime-a100: $md-lime-a100 !default;
+$lime-a200: $md-lime-a200 !default;
+$lime-a400: $md-lime-a400 !default;
+$lime-a700: $md-lime-a700 !default;
+
+$yellow-50: $md-yellow-50 !default;
+$yellow-100: $md-yellow-100 !default;
+$yellow-200: $md-yellow-200 !default;
+$yellow-300: $md-yellow-300 !default;
+$yellow-400: $md-yellow-400 !default;
+$yellow-500: $md-yellow-500 !default;
+$yellow-600: $md-yellow-600 !default;
+$yellow-700: $md-yellow-700 !default;
+$yellow-800: $md-yellow-800 !default;
+$yellow-900: $md-yellow-900 !default;
+$yellow-a100: $md-yellow-a100 !default;
+$yellow-a200: $md-yellow-a200 !default;
+$yellow-a400: $md-yellow-a400 !default;
+$yellow-a700: $md-yellow-a700 !default;
+
+$amber-50: $md-amber-50 !default;
+$amber-100: $md-amber-100 !default;
+$amber-200: $md-amber-200 !default;
+$amber-300: $md-amber-300 !default;
+$amber-400: $md-amber-400 !default;
+$amber-500: $md-amber-500 !default;
+$amber-600: $md-amber-600 !default;
+$amber-700: $md-amber-700 !default;
+$amber-800: $md-amber-800 !default;
+$amber-900: $md-amber-900 !default;
+$amber-a100: $md-amber-a100 !default;
+$amber-a200: $md-amber-a200 !default;
+$amber-a400: $md-amber-a400 !default;
+$amber-a700: $md-amber-a700 !default;
+
+$orange-50: $md-orange-50 !default;
+$orange-100: $md-orange-100 !default;
+$orange-200: $md-orange-200 !default;
+$orange-300: $md-orange-300 !default;
+$orange-400: $md-orange-400 !default;
+$orange-500: $md-orange-500 !default;
+$orange-600: $md-orange-600 !default;
+$orange-700: $md-orange-700 !default;
+$orange-800: $md-orange-800 !default;
+$orange-900: $md-orange-900 !default;
+$orange-a100: $md-orange-a100 !default;
+$orange-a200: $md-orange-a200 !default;
+$orange-a400: $md-orange-a400 !default;
+$orange-a700: $md-orange-a700 !default;
+
+$deep-orange-50: $md-deep-orange-50 !default;
+$deep-orange-100: $md-deep-orange-100 !default;
+$deep-orange-200: $md-deep-orange-200 !default;
+$deep-orange-300: $md-deep-orange-300 !default;
+$deep-orange-400: $md-deep-orange-400 !default;
+$deep-orange-500: $md-deep-orange-500 !default;
+$deep-orange-600: $md-deep-orange-600 !default;
+$deep-orange-700: $md-deep-orange-700 !default;
+$deep-orange-800: $md-deep-orange-800 !default;
+$deep-orange-900: $md-deep-orange-900 !default;
+$deep-orange-a100: $md-deep-orange-a100 !default;
+$deep-orange-a200: $md-deep-orange-a200 !default;
+$deep-orange-a400: $md-deep-orange-a400 !default;
+$deep-orange-a700: $md-deep-orange-a700 !default;
+
+$brown-50: $md-brown-50 !default;
+$brown-100: $md-brown-100 !default;
+$brown-200: $md-brown-200 !default;
+$brown-300: $md-brown-300 !default;
+$brown-400: $md-brown-400 !default;
+$brown-500: $md-brown-500 !default;
+$brown-600: $md-brown-600 !default;
+$brown-700: $md-brown-700 !default;
+$brown-800: $md-brown-800 !default;
+$brown-900: $md-brown-900 !default;
+
+$grey-50: $md-grey-50 !default;
+$grey-100: $md-grey-100 !default;
+$grey-200: $md-grey-200 !default;
+$grey-300: $md-grey-300 !default;
+$grey-400: $md-grey-400 !default;
+$grey-500: $md-grey-500 !default;
+$grey-600: $md-grey-600 !default;
+$grey-700: $md-grey-700 !default;
+$grey-800: $md-grey-800 !default;
+$grey-900: $md-grey-900 !default;
+
+$blue-grey-50: $md-blue-grey-50 !default;
+$blue-grey-100: $md-blue-grey-100 !default;
+$blue-grey-200: $md-blue-grey-200 !default;
+$blue-grey-300: $md-blue-grey-300 !default;
+$blue-grey-400: $md-blue-grey-400 !default;
+$blue-grey-500: $md-blue-grey-500 !default;
+$blue-grey-600: $md-blue-grey-600 !default;
+$blue-grey-700: $md-blue-grey-700 !default;
+$blue-grey-800: $md-blue-grey-800 !default;
+$blue-grey-900: $md-blue-grey-900 !default;
+
+$black: $md-black !default;
+$white: $md-white !default;
+
+$primary: $cyan-500 !default;
+$info: $blue-500 !default;
+$success: $green-a700 !default;
+$warning: $orange-600 !default;
+$danger: $red-500 !default;
+
+$dark: $black !default;
+$dark-1: rgba( $black, 0.87 ) !default;
+$dark-2: rgba( $black, 0.7 ) !default;
+$dark-3: rgba( $black, 0.6 ) !default;
+$dark-4: rgba( $black, 0.5 ) !default;
+$dark-5: rgba( $black, 0.4 ) !default;
+$dark-6: rgba( $black, 0.26 ) !default;
+$dark-7: rgba( $black, 0.15 ) !default;
+$dark-8: rgba( $black, 0.12 ) !default;
+$dark-9: rgba( $black, 0.05 ) !default;
+
+$light: $white !default;
+$light-1: rgba( $white, 0.87 ) !default;
+$light-2: rgba( $white, 0.7 ) !default;
+$light-3: rgba( $white, 0.6 ) !default;
+$light-4: rgba( $white, 0.5 ) !default;
+$light-5: rgba( $white, 0.4 ) !default;
+$light-6: rgba( $white, 0.26 ) !default;
+$light-7: rgba( $white, 0.15 ) !default;
+$light-8: rgba( $white, 0.12 ) !default;
+$light-9: rgba( $white, 0.05 ) !default;
+
+$grey: $grey-50 !default;
+$grey-1: $grey-100 !default;
+$grey-2: $grey-200 !default;
+$grey-3: $grey-300 !default;
+$grey-4: $grey-400 !default;
+$grey-5: $grey-500 !default;
+$grey-6: $grey-600 !default;
+$grey-7: $grey-700 !default;
+$grey-8: $grey-800 !default;
+$grey-9: $grey-900 !default;
