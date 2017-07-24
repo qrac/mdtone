@@ -10,13 +10,21 @@ Material Design ColorをSassで使いやすいよう変数化しました。
 
 ## Use
 
-### 色をWebデザインで使う場合
+### デザインツールで使う場合
 
-[Demo Page][link-demo]に16進数の色コードを自動出力していますので、コピーしてお使いください。
+- ツールに合わせてスウォッチファイルをダウンロードして使用
+- NSColorList形式のスウォッチ(※)はMacの様々なソフトウェアで共有利用が可能
+- Illustratorはスウォッチ読み込み済みのブランクファイルが利用可能
 
-### SCSSの変数として利用する場合
+|     | Illustrator | Photoshop | Sketch | Keynote / Pages / Numbers |
+|:---:|:---:|:---:|:---:|:---:|
+| Swatches | [Download][link-dl-a1] | [Download][link-dl-a1] | [Download][link-dl-a2] (※) | [Download][link-dl-a2] (※) |
+| Template | [Download][link-dl-b1] | --- | --- | --- |
 
-`/src/scss/variable/_mdtone.scss`をお使いください。
+### コーディングで使う場合
+
+- CSS > [Demo Page][link-demo]の色コードを直接コピー
+- SCSS > `/src/scss/variable/_mdtone.scss`を変数ファイルとしてinclude
 
 ## Reference
 
@@ -28,4 +36,7 @@ Material Design ColorをSassで使いやすいよう変数化しました。
 - Author: [Qrac][link-twitter]
 
 [link-demo]:https://qrac.github.io/mdtone/
+[link-dl-a1]:https://qrac.github.io/mdtone/dist/swatches-mdtone.ase
+[link-dl-a2]:https://qrac.github.io/mdtone/dist/swatches-mdtone.clr
+[link-dl-b1]:https://qrac.github.io/mdtone/dist/template-mdtone.ai
 [link-twitter]:https://twitter.com/Qrac_JP
