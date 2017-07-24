@@ -5,7 +5,6 @@
 
 .section.is-header {
   padding: 2.5em 0 3em;
-  background-color: #009688;
 }
 
 .section.is-main {
@@ -13,9 +12,13 @@
   background-color: #ffffff;
 }
 
+.section.is-dist {
+  padding: 3.5em 0 6em;
+  background-color: #263238;
+}
+
 .section.is-footer {
   padding: 1em 0;
-  background-color: #009688;
 }
 
 .texts.is-color-name + .group.is-color-data {
@@ -1304,4 +1307,8 @@
   font-size: 48px;
   font-family: "Roboto", sans-serif;
   font-weight: 700;
+}
+
+.table.is-transdark {
+  background-color: transparent;
 }
