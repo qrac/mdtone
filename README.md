@@ -34,9 +34,11 @@ Material Design ColorをSassで使いやすいよう変数化しました。
 
 - CC0 1.0 Public Domain
 - Author: [Qrac][link-twitter]
+- Author Group: [QRANOKO][link-qranoko]
 
 [link-demo]:https://qrac.github.io/mdtone/
 [link-dl-a1]:https://qrac.github.io/mdtone/dist/swatches-mdtone.ase
 [link-dl-a2]:https://qrac.github.io/mdtone/dist/swatches-mdtone.clr
 [link-dl-b1]:https://qrac.github.io/mdtone/dist/template-mdtone.ai
 [link-twitter]:https://twitter.com/Qrac_JP
+[link-qranoko]:https://qranoko.jp
