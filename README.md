@@ -14,12 +14,10 @@ Material Design ColorをSassで使いやすいよう変数化しました。
 
 - ツールに合わせてスウォッチファイルをダウンロードして使用
 - NSColorList形式のスウォッチ(※)はMacの様々なソフトウェアで共有利用が可能
-- Illustratorはスウォッチ読み込み済みのブランクファイルが利用可能
 
 |     | Illustrator | Photoshop | Sketch | Keynote / Pages / Numbers |
 |:---:|:---:|:---:|:---:|:---:|
 | Swatches | [Download][link-dl-a1] | [Download][link-dl-a1] | [Download][link-dl-a2] (※) | [Download][link-dl-a2] (※) |
-| Template | [Download][link-dl-b1] | --- | --- | --- |
 
 ### コーディングで使う場合
 
