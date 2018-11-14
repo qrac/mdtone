@@ -2,7 +2,7 @@
 
 ## Site
 
-- https://qrac.github.io/mdtone/
+- https://mixtone.qranoko.jp/mdtone/
 
 ## About
 
