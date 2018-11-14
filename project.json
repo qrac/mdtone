@@ -1,0 +1,9 @@
+{
+  "setting": {
+    "name": "MDTONE",
+    "dist": "dist",
+    "lib": "lib",
+    "src": "src",
+    "banner": true
+  }
+}

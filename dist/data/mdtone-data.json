@@ -1,0 +1,1282 @@
+[
+  {
+    "name": "$red-50",
+    "value": "hsl(351, 100%, 96%)",
+    "compiledValue": "#ffebee"
+  },
+  {
+    "name": "$red-100",
+    "value": "hsl(354, 100%, 90%)",
+    "compiledValue": "#ffccd1"
+  },
+  {
+    "name": "$red-200",
+    "value": "hsl(0, 73%, 77%)",
+    "compiledValue": "#ef9a9a"
+  },
+  {
+    "name": "$red-300",
+    "value": "hsl(0, 69%, 67%)",
+    "compiledValue": "#e57171"
+  },
+  {
+    "name": "$red-400",
+    "value": "hsl(1, 83%, 63%)",
+    "compiledValue": "#ef5552"
+  },
+  {
+    "name": "$red-500",
+    "value": "hsl(4, 90%, 58%)",
+    "compiledValue": "#f44034"
+  },
+  {
+    "name": "$red-600",
+    "value": "hsl(1, 77%, 55%)",
+    "compiledValue": "#e53734"
+  },
+  {
+    "name": "$red-700",
+    "value": "hsl(0, 65%, 51%)",
+    "compiledValue": "#d33131"
+  },
+  {
+    "name": "$red-800",
+    "value": "hsl(0, 66%, 47%)",
+    "compiledValue": "#c72929"
+  },
+  {
+    "name": "$red-900",
+    "value": "hsl(0, 73%, 41%)",
+    "compiledValue": "#b51c1c"
+  },
+  {
+    "name": "$red-a100",
+    "value": "hsl(5, 100%, 75%)",
+    "compiledValue": "#ff8a80"
+  },
+  {
+    "name": "$red-a200",
+    "value": "hsl(0, 100%, 66%)",
+    "compiledValue": "#ff5252"
+  },
+  {
+    "name": "$red-a400",
+    "value": "hsl(348, 100%, 55%)",
+    "compiledValue": "#ff1a47"
+  },
+  {
+    "name": "$red-a700",
+    "value": "hsl(0, 100%, 42%)",
+    "compiledValue": "#d60000"
+  },
+  {
+    "name": "$pink-50",
+    "value": "hsl(340, 80%, 94%)",
+    "compiledValue": "#fce3ec"
+  },
+  {
+    "name": "$pink-100",
+    "value": "hsl(339, 81%, 85%)",
+    "compiledValue": "#f8bacf"
+  },
+  {
+    "name": "$pink-200",
+    "value": "hsl(340, 82%, 76%)",
+    "compiledValue": "#f490b1"
+  },
+  {
+    "name": "$pink-300",
+    "value": "hsl(340, 83%, 66%)",
+    "compiledValue": "#f06090"
+  },
+  {
+    "name": "$pink-400",
+    "value": "hsl(340, 82%, 59%)",
+    "compiledValue": "#ec417a"
+  },
+  {
+    "name": "$pink-500",
+    "value": "hsl(340, 82%, 52%)",
+    "compiledValue": "#e92063"
+  },
+  {
+    "name": "$pink-600",
+    "value": "hsl(338, 78%, 48%)",
+    "compiledValue": "#da1b61"
+  },
+  {
+    "name": "$pink-700",
+    "value": "hsl(336, 78%, 43%)",
+    "compiledValue": "#c3185d"
+  },
+  {
+    "name": "$pink-800",
+    "value": "hsl(334, 79%, 38%)",
+    "compiledValue": "#ad1457"
+  },
+  {
+    "name": "$pink-900",
+    "value": "hsl(328, 81%, 29%)",
+    "compiledValue": "#860e4e"
+  },
+  {
+    "name": "$pink-a100",
+    "value": "hsl(340, 100%, 75%)",
+    "compiledValue": "#ff80aa"
+  },
+  {
+    "name": "$pink-a200",
+    "value": "hsl(340, 100%, 63%)",
+    "compiledValue": "#ff4281"
+  },
+  {
+    "name": "$pink-a400",
+    "value": "hsl(339, 100%, 48%)",
+    "compiledValue": "#f50056"
+  },
+  {
+    "name": "$pink-a700",
+    "value": "hsl(333, 84%, 42%)",
+    "compiledValue": "#c51162"
+  },
+  {
+    "name": "$purple-50",
+    "value": "hsl(292, 44%, 93%)",
+    "compiledValue": "#f3e5f5"
+  },
+  {
+    "name": "$purple-100",
+    "value": "hsl(291, 46%, 83%)",
+    "compiledValue": "#e2c0e8"
+  },
+  {
+    "name": "$purple-200",
+    "value": "hsl(291, 47%, 71%)",
+    "compiledValue": "#cd92d8"
+  },
+  {
+    "name": "$purple-300",
+    "value": "hsl(291, 47%, 60%)",
+    "compiledValue": "#bb69c9"
+  },
+  {
+    "name": "$purple-400",
+    "value": "hsl(291, 47%, 51%)",
+    "compiledValue": "#ab47bd"
+  },
+  {
+    "name": "$purple-500",
+    "value": "hsl(291, 64%, 42%)",
+    "compiledValue": "#9b27b0"
+  },
+  {
+    "name": "$purple-600",
+    "value": "hsl(287, 65%, 40%)",
+    "compiledValue": "#8c24a8"
+  },
+  {
+    "name": "$purple-700",
+    "value": "hsl(282, 68%, 38%)",
+    "compiledValue": "#7b1fa3"
+  },
+  {
+    "name": "$purple-800",
+    "value": "hsl(277, 70%, 35%)",
+    "compiledValue": "#681b98"
+  },
+  {
+    "name": "$purple-900",
+    "value": "hsl(267, 75%, 31%)",
+    "compiledValue": "#49148a"
+  },
+  {
+    "name": "$purple-a100",
+    "value": "hsl(291, 95%, 75%)",
+    "compiledValue": "#ea83fc"
+  },
+  {
+    "name": "$purple-a200",
+    "value": "hsl(291, 96%, 62%)",
+    "compiledValue": "#df41fb"
+  },
+  {
+    "name": "$purple-a400",
+    "value": "hsl(291, 100%, 49%)",
+    "compiledValue": "#d400fa"
+  },
+  {
+    "name": "$purple-a700",
+    "value": "hsl(280, 100%, 50%)",
+    "compiledValue": "#aa00ff"
+  },
+  {
+    "name": "$deep-purple-50",
+    "value": "hsl(264, 45%, 94%)",
+    "compiledValue": "#eee9f7"
+  },
+  {
+    "name": "$deep-purple-100",
+    "value": "hsl(261, 46%, 84%)",
+    "compiledValue": "#d1c3e9"
+  },
+  {
+    "name": "$deep-purple-200",
+    "value": "hsl(261, 46%, 74%)",
+    "compiledValue": "#b49edb"
+  },
+  {
+    "name": "$deep-purple-300",
+    "value": "hsl(262, 47%, 63%)",
+    "compiledValue": "#9574cd"
+  },
+  {
+    "name": "$deep-purple-400",
+    "value": "hsl(262, 47%, 55%)",
+    "compiledValue": "#7e56c2"
+  },
+  {
+    "name": "$deep-purple-500",
+    "value": "hsl(262, 52%, 47%)",
+    "compiledValue": "#673ab6"
+  },
+  {
+    "name": "$deep-purple-600",
+    "value": "hsl(260, 54%, 45%)",
+    "compiledValue": "#5e35b1"
+  },
+  {
+    "name": "$deep-purple-700",
+    "value": "hsl(258, 58%, 42%)",
+    "compiledValue": "#522da9"
+  },
+  {
+    "name": "$deep-purple-800",
+    "value": "hsl(255, 61%, 39%)",
+    "compiledValue": "#4527a0"
+  },
+  {
+    "name": "$deep-purple-900",
+    "value": "hsl(251, 69%, 34%)",
+    "compiledValue": "#311b93"
+  },
+  {
+    "name": "$deep-purple-a100",
+    "value": "hsl(262, 100%, 77%)",
+    "compiledValue": "#b58aff"
+  },
+  {
+    "name": "$deep-purple-a200",
+    "value": "hsl(256, 100%, 65%)",
+    "compiledValue": "#7c4dff"
+  },
+  {
+    "name": "$deep-purple-a400",
+    "value": "hsl(259, 100%, 56%)",
+    "compiledValue": "#661fff"
+  },
+  {
+    "name": "$deep-purple-a700",
+    "value": "hsl(265, 100%, 46%)",
+    "compiledValue": "#6200eb"
+  },
+  {
+    "name": "$indigo-50",
+    "value": "hsl(231, 44%, 94%)",
+    "compiledValue": "#e9ebf6"
+  },
+  {
+    "name": "$indigo-100",
+    "value": "hsl(232, 45%, 84%)",
+    "compiledValue": "#c4c9e9"
+  },
+  {
+    "name": "$indigo-200",
+    "value": "hsl(231, 44%, 74%)",
+    "compiledValue": "#a0a8da"
+  },
+  {
+    "name": "$indigo-300",
+    "value": "hsl(230, 44%, 64%)",
+    "compiledValue": "#7b88cc"
+  },
+  {
+    "name": "$indigo-400",
+    "value": "hsl(231, 44%, 56%)",
+    "compiledValue": "#5d6cc0"
+  },
+  {
+    "name": "$indigo-500",
+    "value": "hsl(231, 48%, 48%)",
+    "compiledValue": "#4051b5"
+  },
+  {
+    "name": "$indigo-600",
+    "value": "hsl(232, 50%, 45%)",
+    "compiledValue": "#3949ac"
+  },
+  {
+    "name": "$indigo-700",
+    "value": "hsl(232, 54%, 41%)",
+    "compiledValue": "#303fa1"
+  },
+  {
+    "name": "$indigo-800",
+    "value": "hsl(233, 57%, 37%)",
+    "compiledValue": "#293594"
+  },
+  {
+    "name": "$indigo-900",
+    "value": "hsl(235, 66%, 30%)",
+    "compiledValue": "#1a227f"
+  },
+  {
+    "name": "$indigo-a100",
+    "value": "hsl(231, 100%, 77%)",
+    "compiledValue": "#8a9bff"
+  },
+  {
+    "name": "$indigo-a200",
+    "value": "hsl(231, 99%, 66%)",
+    "compiledValue": "#526cfe"
+  },
+  {
+    "name": "$indigo-a400",
+    "value": "hsl(231, 99%, 62%)",
+    "compiledValue": "#3e5bfe"
+  },
+  {
+    "name": "$indigo-a700",
+    "value": "hsl(231, 99%, 59%)",
+    "compiledValue": "#2f4efe"
+  },
+  {
+    "name": "$blue-50",
+    "value": "hsl(205, 87%, 94%)",
+    "compiledValue": "#e2f2fd"
+  },
+  {
+    "name": "$blue-100",
+    "value": "hsl(207, 89%, 86%)",
+    "compiledValue": "#bcdefb"
+  },
+  {
+    "name": "$blue-200",
+    "value": "hsl(207, 90%, 77%)",
+    "compiledValue": "#90caf9"
+  },
+  {
+    "name": "$blue-300",
+    "value": "hsl(207, 89%, 68%)",
+    "compiledValue": "#65b5f6"
+  },
+  {
+    "name": "$blue-400",
+    "value": "hsl(207, 90%, 61%)",
+    "compiledValue": "#42a5f5"
+  },
+  {
+    "name": "$blue-500",
+    "value": "hsl(207, 90%, 54%)",
+    "compiledValue": "#2094f3"
+  },
+  {
+    "name": "$blue-600",
+    "value": "hsl(208, 79%, 51%)",
+    "compiledValue": "#1f89e5"
+  },
+  {
+    "name": "$blue-700",
+    "value": "hsl(210, 79%, 46%)",
+    "compiledValue": "#1975d2"
+  },
+  {
+    "name": "$blue-800",
+    "value": "hsl(212, 80%, 42%)",
+    "compiledValue": "#1565c1"
+  },
+  {
+    "name": "$blue-900",
+    "value": "hsl(216, 85%, 34%)",
+    "compiledValue": "#0d48a0"
+  },
+  {
+    "name": "$blue-a100",
+    "value": "hsl(217, 100%, 75%)",
+    "compiledValue": "#80b0ff"
+  },
+  {
+    "name": "$blue-a200",
+    "value": "hsl(218, 100%, 63%)",
+    "compiledValue": "#4287ff"
+  },
+  {
+    "name": "$blue-a400",
+    "value": "hsl(218, 100%, 58%)",
+    "compiledValue": "#2977ff"
+  },
+  {
+    "name": "$blue-a700",
+    "value": "hsl(224, 100%, 58%)",
+    "compiledValue": "#2962ff"
+  },
+  {
+    "name": "$light-blue-50",
+    "value": "hsl(199, 94%, 94%)",
+    "compiledValue": "#e1f5fe"
+  },
+  {
+    "name": "$light-blue-100",
+    "value": "hsl(199, 92%, 85%)",
+    "compiledValue": "#b6e6fc"
+  },
+  {
+    "name": "$light-blue-200",
+    "value": "hsl(199, 92%, 74%)",
+    "compiledValue": "#80d3fa"
+  },
+  {
+    "name": "$light-blue-300",
+    "value": "hsl(199, 91%, 64%)",
+    "compiledValue": "#50c2f7"
+  },
+  {
+    "name": "$light-blue-400",
+    "value": "hsl(199, 92%, 56%)",
+    "compiledValue": "#28b5f6"
+  },
+  {
+    "name": "$light-blue-500",
+    "value": "hsl(199, 98%, 48%)",
+    "compiledValue": "#02a6f2"
+  },
+  {
+    "name": "$light-blue-600",
+    "value": "hsl(200, 97%, 45%)",
+    "compiledValue": "#0398e2"
+  },
+  {
+    "name": "$light-blue-700",
+    "value": "hsl(201, 98%, 41%)",
+    "compiledValue": "#0287cf"
+  },
+  {
+    "name": "$light-blue-800",
+    "value": "hsl(202, 98%, 37%)",
+    "compiledValue": "#0277bb"
+  },
+  {
+    "name": "$light-blue-900",
+    "value": "hsl(206, 99%, 31%)",
+    "compiledValue": "#01599d"
+  },
+  {
+    "name": "$light-blue-a100",
+    "value": "hsl(198, 100%, 75%)",
+    "compiledValue": "#80d9ff"
+  },
+  {
+    "name": "$light-blue-a200",
+    "value": "hsl(199, 100%, 63%)",
+    "compiledValue": "#42c3ff"
+  },
+  {
+    "name": "$light-blue-a400",
+    "value": "hsl(199, 100%, 50%)",
+    "compiledValue": "#00aeff"
+  },
+  {
+    "name": "$light-blue-a700",
+    "value": "hsl(203, 100%, 46%)",
+    "compiledValue": "#0091eb"
+  },
+  {
+    "name": "$cyan-50",
+    "value": "hsl(187, 72%, 93%)",
+    "compiledValue": "#e0f7fa"
+  },
+  {
+    "name": "$cyan-100",
+    "value": "hsl(187, 71%, 82%)",
+    "compiledValue": "#b1eaf2"
+  },
+  {
+    "name": "$cyan-200",
+    "value": "hsl(187, 72%, 71%)",
+    "compiledValue": "#80deea"
+  },
+  {
+    "name": "$cyan-300",
+    "value": "hsl(187, 71%, 59%)",
+    "compiledValue": "#4ccfe1"
+  },
+  {
+    "name": "$cyan-400",
+    "value": "hsl(187, 71%, 50%)",
+    "compiledValue": "#25c5da"
+  },
+  {
+    "name": "$cyan-500",
+    "value": "hsl(187, 100%, 42%)",
+    "compiledValue": "#00bdd6"
+  },
+  {
+    "name": "$cyan-600",
+    "value": "hsl(187, 100%, 38%)",
+    "compiledValue": "#00abc2"
+  },
+  {
+    "name": "$cyan-700",
+    "value": "hsl(186, 100%, 33%)",
+    "compiledValue": "#0097a8"
+  },
+  {
+    "name": "$cyan-800",
+    "value": "hsl(185, 100%, 28%)",
+    "compiledValue": "#00838f"
+  },
+  {
+    "name": "$cyan-900",
+    "value": "hsl(182, 100%, 20%)",
+    "compiledValue": "#006366"
+  },
+  {
+    "name": "$cyan-a100",
+    "value": "hsl(180, 100%, 76%)",
+    "compiledValue": "#85ffff"
+  },
+  {
+    "name": "$cyan-a200",
+    "value": "hsl(180, 100%, 55%)",
+    "compiledValue": "#1affff"
+  },
+  {
+    "name": "$cyan-a400",
+    "value": "hsl(186, 100%, 50%)",
+    "compiledValue": "#00e6ff"
+  },
+  {
+    "name": "$cyan-a700",
+    "value": "hsl(188, 100%, 42%)",
+    "compiledValue": "#00bad6"
+  },
+  {
+    "name": "$teal-50",
+    "value": "hsl(177, 41%, 91%)",
+    "compiledValue": "#dff1f1"
+  },
+  {
+    "name": "$teal-100",
+    "value": "hsl(175, 41%, 79%)",
+    "compiledValue": "#b3dfdc"
+  },
+  {
+    "name": "$teal-200",
+    "value": "hsl(174, 42%, 65%)",
+    "compiledValue": "#80cbc4"
+  },
+  {
+    "name": "$teal-300",
+    "value": "hsl(174, 42%, 51%)",
+    "compiledValue": "#4eb7ac"
+  },
+  {
+    "name": "$teal-400",
+    "value": "hsl(174, 63%, 40%)",
+    "compiledValue": "#26a699"
+  },
+  {
+    "name": "$teal-500",
+    "value": "hsl(174, 100%, 29%)",
+    "compiledValue": "#009485"
+  },
+  {
+    "name": "$teal-600",
+    "value": "hsl(174, 100%, 27%)",
+    "compiledValue": "#008a7c"
+  },
+  {
+    "name": "$teal-700",
+    "value": "hsl(173, 100%, 24%)",
+    "compiledValue": "#007a6c"
+  },
+  {
+    "name": "$teal-800",
+    "value": "hsl(173, 100%, 21%)",
+    "compiledValue": "#006b5f"
+  },
+  {
+    "name": "$teal-900",
+    "value": "hsl(170, 100%, 15%)",
+    "compiledValue": "#004d40"
+  },
+  {
+    "name": "$teal-a100",
+    "value": "hsl(166, 100%, 83%)",
+    "compiledValue": "#a8ffeb"
+  },
+  {
+    "name": "$teal-a200",
+    "value": "hsl(166, 100%, 70%)",
+    "compiledValue": "#66ffdb"
+  },
+  {
+    "name": "$teal-a400",
+    "value": "hsl(165, 82%, 51%)",
+    "compiledValue": "#1ce9b5"
+  },
+  {
+    "name": "$teal-a700",
+    "value": "hsl(172, 100%, 37%)",
+    "compiledValue": "#00bda4"
+  },
+  {
+    "name": "$green-50",
+    "value": "hsl(125, 39%, 94%)",
+    "compiledValue": "#eaf6eb"
+  },
+  {
+    "name": "$green-100",
+    "value": "hsl(122, 38%, 84%)",
+    "compiledValue": "#c7e6c8"
+  },
+  {
+    "name": "$green-200",
+    "value": "hsl(122, 37%, 74%)",
+    "compiledValue": "#a4d5a6"
+  },
+  {
+    "name": "$green-300",
+    "value": "hsl(123, 38%, 64%)",
+    "compiledValue": "#80c684"
+  },
+  {
+    "name": "$green-400",
+    "value": "hsl(123, 38%, 57%)",
+    "compiledValue": "#68bb6c"
+  },
+  {
+    "name": "$green-500",
+    "value": "hsl(122, 39%, 49%)",
+    "compiledValue": "#4cae4f"
+  },
+  {
+    "name": "$green-600",
+    "value": "hsl(123, 41%, 45%)",
+    "compiledValue": "#44a248"
+  },
+  {
+    "name": "$green-700",
+    "value": "hsl(123, 43%, 39%)",
+    "compiledValue": "#398e3d"
+  },
+  {
+    "name": "$green-800",
+    "value": "hsl(123, 46%, 34%)",
+    "compiledValue": "#2f7f33"
+  },
+  {
+    "name": "$green-900",
+    "value": "hsl(124, 55%, 24%)",
+    "compiledValue": "#1c5f20"
+  },
+  {
+    "name": "$green-a100",
+    "value": "hsl(137, 77%, 85%)",
+    "compiledValue": "#bbf6cc"
+  },
+  {
+    "name": "$green-a200",
+    "value": "hsl(151, 82%, 68%)",
+    "compiledValue": "#6af0b0"
+  },
+  {
+    "name": "$green-a400",
+    "value": "hsl(151, 100%, 45%)",
+    "compiledValue": "#00e677"
+  },
+  {
+    "name": "$green-a700",
+    "value": "hsl(145, 100%, 39%)",
+    "compiledValue": "#00c753"
+  },
+  {
+    "name": "$light-green-50",
+    "value": "hsl(88, 52%, 94%)",
+    "compiledValue": "#f0f8e8"
+  },
+  {
+    "name": "$light-green-100",
+    "value": "hsl(88, 51%, 86%)",
+    "compiledValue": "#ddeec9"
+  },
+  {
+    "name": "$light-green-200",
+    "value": "hsl(88, 50%, 76%)",
+    "compiledValue": "#c4e0a3"
+  },
+  {
+    "name": "$light-green-300",
+    "value": "hsl(88, 50%, 67%)",
+    "compiledValue": "#aed581"
+  },
+  {
+    "name": "$light-green-400",
+    "value": "hsl(88, 50%, 60%)",
+    "compiledValue": "#9ccc66"
+  },
+  {
+    "name": "$light-green-500",
+    "value": "hsl(88, 50%, 53%)",
+    "compiledValue": "#8bc34b"
+  },
+  {
+    "name": "$light-green-600",
+    "value": "hsl(89, 46%, 48%)",
+    "compiledValue": "#7cb342"
+  },
+  {
+    "name": "$light-green-700",
+    "value": "hsl(92, 48%, 42%)",
+    "compiledValue": "#689f38"
+  },
+  {
+    "name": "$light-green-800",
+    "value": "hsl(95, 49%, 36%)",
+    "compiledValue": "#54892f"
+  },
+  {
+    "name": "$light-green-900",
+    "value": "hsl(103, 56%, 26%)",
+    "compiledValue": "#32671d"
+  },
+  {
+    "name": "$light-green-a100",
+    "value": "hsl(88, 100%, 78%)",
+    "compiledValue": "#cbff8f"
+  },
+  {
+    "name": "$light-green-a200",
+    "value": "hsl(88, 100%, 67%)",
+    "compiledValue": "#b0ff57"
+  },
+  {
+    "name": "$light-green-a400",
+    "value": "hsl(93, 100%, 51%)",
+    "compiledValue": "#76ff05"
+  },
+  {
+    "name": "$light-green-a700",
+    "value": "hsl(97, 81%, 48%)",
+    "compiledValue": "#63de17"
+  },
+  {
+    "name": "$lime-50",
+    "value": "hsl(66, 71%, 95%)",
+    "compiledValue": "#f9fbe9"
+  },
+  {
+    "name": "$lime-100",
+    "value": "hsl(65, 69%, 86%)",
+    "compiledValue": "#f0f4c3"
+  },
+  {
+    "name": "$lime-200",
+    "value": "hsl(66, 71%, 77%)",
+    "compiledValue": "#e6ee9b"
+  },
+  {
+    "name": "$lime-300",
+    "value": "hsl(66, 70%, 68%)",
+    "compiledValue": "#dbe774"
+  },
+  {
+    "name": "$lime-400",
+    "value": "hsl(66, 70%, 61%)",
+    "compiledValue": "#d3e156"
+  },
+  {
+    "name": "$lime-500",
+    "value": "hsl(66, 70%, 54%)",
+    "compiledValue": "#cbdc38"
+  },
+  {
+    "name": "$lime-600",
+    "value": "hsl(64, 60%, 50%)",
+    "compiledValue": "#c2cc33"
+  },
+  {
+    "name": "$lime-700",
+    "value": "hsl(62, 61%, 44%)",
+    "compiledValue": "#b0b52c"
+  },
+  {
+    "name": "$lime-800",
+    "value": "hsl(60, 63%, 38%)",
+    "compiledValue": "#9e9e24"
+  },
+  {
+    "name": "$lime-900",
+    "value": "hsl(54, 70%, 30%)",
+    "compiledValue": "#827717"
+  },
+  {
+    "name": "$lime-a100",
+    "value": "hsl(65, 100%, 75%)",
+    "compiledValue": "#f4ff80"
+  },
+  {
+    "name": "$lime-a200",
+    "value": "hsl(65, 100%, 63%)",
+    "compiledValue": "#efff42"
+  },
+  {
+    "name": "$lime-a400",
+    "value": "hsl(73, 100%, 50%)",
+    "compiledValue": "#c8ff00"
+  },
+  {
+    "name": "$lime-a700",
+    "value": "hsl(75, 100%, 46%)",
+    "compiledValue": "#b0eb00"
+  },
+  {
+    "name": "$yellow-50",
+    "value": "hsl(55, 100%, 95%)",
+    "compiledValue": "#fffde6"
+  },
+  {
+    "name": "$yellow-100",
+    "value": "hsl(54, 100%, 88%)",
+    "compiledValue": "#fff9c2"
+  },
+  {
+    "name": "$yellow-200",
+    "value": "hsl(54, 100%, 81%)",
+    "compiledValue": "#fff59e"
+  },
+  {
+    "name": "$yellow-300",
+    "value": "hsl(54, 100%, 73%)",
+    "compiledValue": "#fff175"
+  },
+  {
+    "name": "$yellow-400",
+    "value": "hsl(54, 100%, 67%)",
+    "compiledValue": "#ffee57"
+  },
+  {
+    "name": "$yellow-500",
+    "value": "hsl(54, 100%, 62%)",
+    "compiledValue": "#ffec3d"
+  },
+  {
+    "name": "$yellow-600",
+    "value": "hsl(49, 98%, 60%)",
+    "compiledValue": "#fdd835"
+  },
+  {
+    "name": "$yellow-700",
+    "value": "hsl(43, 96%, 58%)",
+    "compiledValue": "#fbc02d"
+  },
+  {
+    "name": "$yellow-800",
+    "value": "hsl(37, 95%, 56%)",
+    "compiledValue": "#f9a824"
+  },
+  {
+    "name": "$yellow-900",
+    "value": "hsl(28, 92%, 53%)",
+    "compiledValue": "#f58019"
+  },
+  {
+    "name": "$yellow-a100",
+    "value": "hsl(60, 100%, 78%)",
+    "compiledValue": "#ffff8f"
+  },
+  {
+    "name": "$yellow-a200",
+    "value": "hsl(60, 100%, 50%)",
+    "compiledValue": "yellow"
+  },
+  {
+    "name": "$yellow-a400",
+    "value": "hsl(55, 100%, 50%)",
+    "compiledValue": "#ffea00"
+  },
+  {
+    "name": "$yellow-a700",
+    "value": "hsl(50, 100%, 50%)",
+    "compiledValue": "#ffd500"
+  },
+  {
+    "name": "$amber-50",
+    "value": "hsl(46, 100%, 94%)",
+    "compiledValue": "#fff8e0"
+  },
+  {
+    "name": "$amber-100",
+    "value": "hsl(45, 100%, 85%)",
+    "compiledValue": "#ffecb3"
+  },
+  {
+    "name": "$amber-200",
+    "value": "hsl(45, 100%, 75%)",
+    "compiledValue": "#ffdf80"
+  },
+  {
+    "name": "$amber-300",
+    "value": "hsl(46, 100%, 65%)",
+    "compiledValue": "#ffd54d"
+  },
+  {
+    "name": "$amber-400",
+    "value": "hsl(45, 100%, 58%)",
+    "compiledValue": "#ffc929"
+  },
+  {
+    "name": "$amber-500",
+    "value": "hsl(45, 100%, 51%)",
+    "compiledValue": "#ffc105"
+  },
+  {
+    "name": "$amber-600",
+    "value": "hsl(42, 100%, 50%)",
+    "compiledValue": "#ffb300"
+  },
+  {
+    "name": "$amber-700",
+    "value": "hsl(38, 100%, 50%)",
+    "compiledValue": "#ffa200"
+  },
+  {
+    "name": "$amber-800",
+    "value": "hsl(34, 100%, 50%)",
+    "compiledValue": "#ff9100"
+  },
+  {
+    "name": "$amber-900",
+    "value": "hsl(26, 100%, 50%)",
+    "compiledValue": "#ff6f00"
+  },
+  {
+    "name": "$amber-a100",
+    "value": "hsl(48, 100%, 75%)",
+    "compiledValue": "#ffe680"
+  },
+  {
+    "name": "$amber-a200",
+    "value": "hsl(47, 100%, 63%)",
+    "compiledValue": "#ffd642"
+  },
+  {
+    "name": "$amber-a400",
+    "value": "hsl(46, 100%, 50%)",
+    "compiledValue": "#ffc400"
+  },
+  {
+    "name": "$amber-a700",
+    "value": "hsl(40, 100%, 50%)",
+    "compiledValue": "#ffaa00"
+  },
+  {
+    "name": "$orange-50",
+    "value": "hsl(37, 100%, 94%)",
+    "compiledValue": "#fff3e0"
+  },
+  {
+    "name": "$orange-100",
+    "value": "hsl(36, 100%, 85%)",
+    "compiledValue": "#ffe0b3"
+  },
+  {
+    "name": "$orange-200",
+    "value": "hsl(36, 100%, 75%)",
+    "compiledValue": "#ffcc80"
+  },
+  {
+    "name": "$orange-300",
+    "value": "hsl(36, 100%, 65%)",
+    "compiledValue": "#ffb84d"
+  },
+  {
+    "name": "$orange-400",
+    "value": "hsl(36, 100%, 57%)",
+    "compiledValue": "#ffa724"
+  },
+  {
+    "name": "$orange-500",
+    "value": "hsl(36, 100%, 50%)",
+    "compiledValue": "#ff9900"
+  },
+  {
+    "name": "$orange-600",
+    "value": "hsl(33, 100%, 49%)",
+    "compiledValue": "#fa8900"
+  },
+  {
+    "name": "$orange-700",
+    "value": "hsl(30, 100%, 48%)",
+    "compiledValue": "#f57a00"
+  },
+  {
+    "name": "$orange-800",
+    "value": "hsl(27, 100%, 47%)",
+    "compiledValue": "#f06c00"
+  },
+  {
+    "name": "$orange-900",
+    "value": "hsl(21, 100%, 45%)",
+    "compiledValue": "#e65000"
+  },
+  {
+    "name": "$orange-a100",
+    "value": "hsl(38, 100%, 75%)",
+    "compiledValue": "#ffd080"
+  },
+  {
+    "name": "$orange-a200",
+    "value": "hsl(34, 100%, 63%)",
+    "compiledValue": "#ffad42"
+  },
+  {
+    "name": "$orange-a400",
+    "value": "hsl(34, 100%, 50%)",
+    "compiledValue": "#ff9100"
+  },
+  {
+    "name": "$orange-a700",
+    "value": "hsl(26, 100%, 50%)",
+    "compiledValue": "#ff6f00"
+  },
+  {
+    "name": "$deep-orange-50",
+    "value": "hsl(6, 71%, 95%)",
+    "compiledValue": "#fbebe9"
+  },
+  {
+    "name": "$deep-orange-100",
+    "value": "hsl(14, 100%, 87%)",
+    "compiledValue": "#ffccbd"
+  },
+  {
+    "name": "$deep-orange-200",
+    "value": "hsl(14, 100%, 78%)",
+    "compiledValue": "#ffa98f"
+  },
+  {
+    "name": "$deep-orange-300",
+    "value": "hsl(14, 100%, 70%)",
+    "compiledValue": "#ff8a66"
+  },
+  {
+    "name": "$deep-orange-400",
+    "value": "hsl(14, 100%, 63%)",
+    "compiledValue": "#ff6e42"
+  },
+  {
+    "name": "$deep-orange-500",
+    "value": "hsl(14, 100%, 57%)",
+    "compiledValue": "#ff5724"
+  },
+  {
+    "name": "$deep-orange-600",
+    "value": "hsl(14, 91%, 54%)",
+    "compiledValue": "#f4511f"
+  },
+  {
+    "name": "$deep-orange-700",
+    "value": "hsl(14, 80%, 50%)",
+    "compiledValue": "#e6491a"
+  },
+  {
+    "name": "$deep-orange-800",
+    "value": "hsl(14, 82%, 46%)",
+    "compiledValue": "#d54215"
+  },
+  {
+    "name": "$deep-orange-900",
+    "value": "hsl(14, 88%, 40%)",
+    "compiledValue": "#c0360c"
+  },
+  {
+    "name": "$deep-orange-a100",
+    "value": "hsl(14, 100%, 75%)",
+    "compiledValue": "#ff9d80"
+  },
+  {
+    "name": "$deep-orange-a200",
+    "value": "hsl(14, 100%, 63%)",
+    "compiledValue": "#ff6e42"
+  },
+  {
+    "name": "$deep-orange-a400",
+    "value": "hsl(14, 100%, 50%)",
+    "compiledValue": "#ff3c00"
+  },
+  {
+    "name": "$deep-orange-a700",
+    "value": "hsl(12, 100%, 43%)",
+    "compiledValue": "#db2c00"
+  },
+  {
+    "name": "$brown-50",
+    "value": "hsl(20, 16%, 93%)",
+    "compiledValue": "#f0ecea"
+  },
+  {
+    "name": "$brown-100",
+    "value": "hsl(16, 16%, 81%)",
+    "compiledValue": "#d6cbc7"
+  },
+  {
+    "name": "$brown-200",
+    "value": "hsl(15, 15%, 69%)",
+    "compiledValue": "#bcaaa4"
+  },
+  {
+    "name": "$brown-300",
+    "value": "hsl(16, 15%, 56%)",
+    "compiledValue": "#a0877e"
+  },
+  {
+    "name": "$brown-400",
+    "value": "hsl(16, 18%, 47%)",
+    "compiledValue": "#8d6e62"
+  },
+  {
+    "name": "$brown-500",
+    "value": "hsl(16, 25%, 38%)",
+    "compiledValue": "#795649"
+  },
+  {
+    "name": "$brown-600",
+    "value": "hsl(15, 25%, 34%)",
+    "compiledValue": "#6c4c41"
+  },
+  {
+    "name": "$brown-700",
+    "value": "hsl(14, 26%, 29%)",
+    "compiledValue": "#5d4037"
+  },
+  {
+    "name": "$brown-800",
+    "value": "hsl(11, 26%, 24%)",
+    "compiledValue": "#4d332d"
+  },
+  {
+    "name": "$brown-900",
+    "value": "hsl(9, 28%, 19%)",
+    "compiledValue": "#3e2723"
+  },
+  {
+    "name": "$grey-50",
+    "value": "hsl(0, 0%, 98%)",
+    "compiledValue": "#fafafa"
+  },
+  {
+    "name": "$grey-100",
+    "value": "hsl(0, 0%, 96%)",
+    "compiledValue": "whitesmoke"
+  },
+  {
+    "name": "$grey-200",
+    "value": "hsl(0, 0%, 93%)",
+    "compiledValue": "#ededed"
+  },
+  {
+    "name": "$grey-300",
+    "value": "hsl(0, 0%, 88%)",
+    "compiledValue": "#e0e0e0"
+  },
+  {
+    "name": "$grey-400",
+    "value": "hsl(0, 0%, 74%)",
+    "compiledValue": "#bdbdbd"
+  },
+  {
+    "name": "$grey-500",
+    "value": "hsl(0, 0%, 62%)",
+    "compiledValue": "#9e9e9e"
+  },
+  {
+    "name": "$grey-600",
+    "value": "hsl(0, 0%, 46%)",
+    "compiledValue": "#757575"
+  },
+  {
+    "name": "$grey-700",
+    "value": "hsl(0, 0%, 38%)",
+    "compiledValue": "#616161"
+  },
+  {
+    "name": "$grey-800",
+    "value": "hsl(0, 0%, 26%)",
+    "compiledValue": "#424242"
+  },
+  {
+    "name": "$grey-900",
+    "value": "hsl(0, 0%, 13%)",
+    "compiledValue": "#212121"
+  },
+  {
+    "name": "$blue-grey-50",
+    "value": "hsl(204, 15%, 94%)",
+    "compiledValue": "#edf0f2"
+  },
+  {
+    "name": "$blue-grey-100",
+    "value": "hsl(198, 16%, 84%)",
+    "compiledValue": "#d0d9dd"
+  },
+  {
+    "name": "$blue-grey-200",
+    "value": "hsl(200, 15%, 73%)",
+    "compiledValue": "#b0bec4"
+  },
+  {
+    "name": "$blue-grey-300",
+    "value": "hsl(200, 16%, 62%)",
+    "compiledValue": "#8fa3ae"
+  },
+  {
+    "name": "$blue-grey-400",
+    "value": "hsl(200, 15%, 54%)",
+    "compiledValue": "#78909b"
+  },
+  {
+    "name": "$blue-grey-500",
+    "value": "hsl(200, 18%, 46%)",
+    "compiledValue": "#607c8a"
+  },
+  {
+    "name": "$blue-grey-600",
+    "value": "hsl(199, 18%, 40%)",
+    "compiledValue": "#546d78"
+  },
+  {
+    "name": "$blue-grey-700",
+    "value": "hsl(199, 18%, 33%)",
+    "compiledValue": "#455a63"
+  },
+  {
+    "name": "$blue-grey-800",
+    "value": "hsl(200, 18%, 26%)",
+    "compiledValue": "#36464e"
+  },
+  {
+    "name": "$blue-grey-900",
+    "value": "hsl(200, 19%, 18%)",
+    "compiledValue": "#253137"
+  },
+  {
+    "name": "$black",
+    "value": "hsl(0, 0%, 0%)",
+    "compiledValue": "black"
+  },
+  {
+    "name": "$white",
+    "value": "hsl(0, 0%, 100%)",
+    "compiledValue": "white"
+  }
+]
